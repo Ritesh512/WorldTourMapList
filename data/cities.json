@@ -37,28 +37,28 @@
       "id": 98443197
     },
     {
-      "cityName": "Fundao",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2023-11-09T06:50:06.074Z",
-      "notes": "",
+      "cityName": "Sambhaji Nagar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-16T05:22:26.676Z",
+      "notes": "Aurangabad",
       "position": {
-        "lat": "40.094882122321174",
-        "lng": "-7.712402343750001"
+        "lat": "19.80805412808859",
+        "lng": "75.45410156250001"
       },
-      "id": 98443198
+      "id": 98443201
     },
     {
-      "cityName": "Santiago del Tormes",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-11-09T06:51:27.474Z",
-      "notes": "qq",
+      "cityName": "Sengaon",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-16T05:22:26.676Z",
+      "notes": "Aurangabad",
       "position": {
-        "lat": "40.34654412118006",
-        "lng": "-5.427246093750001"
+        "lat": "19.80805412808859",
+        "lng": "76.77246093750001"
       },
-      "id": 98443199
+      "id": 98443202
     }
   ]
 }
